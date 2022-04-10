@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736280533102",
+    "project_id": "cupidknot-afd1e",
+    "storage_bucket": "cupidknot-afd1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736280533102:android:8b131461a0a5090c536e7f",
+        "android_client_info": {
+          "package_name": "com.example.cupidknotproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736280533102-9e28cc9st5mr0c5oaglce8p9jcsf9e6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKnnUWoLMLhI5a4Cm5eb07P9xSJtZo48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736280533102-9e28cc9st5mr0c5oaglce8p9jcsf9e6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
